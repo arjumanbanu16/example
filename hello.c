@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- Firstqss45445t
+ First
 */
 
 int main()
