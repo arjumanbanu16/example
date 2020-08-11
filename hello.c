@@ -7,6 +7,6 @@
 int main()
 {
     printf("\nHello World!!\n");
-    printf("\nhii");
+    printf("\nhi");
     return 0;
 }
